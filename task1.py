@@ -15,4 +15,5 @@ for i in range(1, 101):
         continue
     if devide_by_number(i, 3):
         print "fizz"
+        continue
     print i

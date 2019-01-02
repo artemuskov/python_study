@@ -1,0 +1,50 @@
+{
+  "Piter": {
+    "Name": "Piter",
+    "Email": "piter@company.com",
+    "Phone": "+380671234910",
+    "Age": "35"
+  },
+    "Sara": {
+    "Name": "Sara",
+    "Email": "sara@company.com",
+    "Phone": "+380671234567",
+    "Age": "45"
+  },
+    "John": {
+    "Name": "John",
+    "Email": "john@companycom",
+    "Phone": "+380671234713",
+    "Age": "55"
+  },
+    "David": {
+    "Name": "David",
+    "Email": "david@company.com",
+    "Phone": "380671234654",
+    "Age": "38"
+  },
+    "Patrisia": {
+    "Name": "Patrisia",
+    "Email": "patrisia@company.com",
+    "Phone": "+380671234308",
+    "Age": "18"
+  },
+    "Gerald": {
+    "Name": "Gerald",
+    "Email": "gerald@company.com",
+    "Phone": "+38067123480",
+    "Age": "380"
+  },
+    "Alice": {
+    "Name": "Alice",
+    "Email": "alice@company.com",
+    "Phone": "+380671234444",
+    "Age": "10"
+  },
+    "Biatris": {
+    "Name": "Biatris",
+    "Email": "biatris@company.com",
+    "Phone": "+380671234209",
+    "Age": "20"
+  }
+}

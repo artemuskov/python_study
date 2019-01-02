@@ -1,15 +1,18 @@
 #!/usr/bin/env python
 
 
-def devide_by(input):
-    if input % 3 == 0:
-        print "fizz"
-    if input % 5 == 0:
-        print "bizz"
-    if input % 15:
-        print "fizzbizz"
-    print i
+def devide_by_number(inpt, dev):
+    if inpt % dev == 0:
+        return True
 
 
 for i in range(1, 101):
-    devide_by(i)
+    if devide_by_number(i, 15):
+        print "fizzbizz"
+        continue
+    if devide_by_number(i, 5):
+        print "bizz"
+        continue
+    if devide_by_number(i, 3):
+        print "fizz"
+    print i
